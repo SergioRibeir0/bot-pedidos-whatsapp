@@ -106,7 +106,7 @@ bot-pedidos-whatsapp/
 
 **Sérgio Luiz Ribeiro dos Santos**  
 Graduado em Análise e Desenvolvimento de Sistemas — Impacta Tecnologia  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-ribeiro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-ribeiroo/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/SergioRibeir0)
 
 ---
